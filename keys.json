@@ -1,12 +1,13 @@
 [
   {
-    "key": "123-456-789",
-    "hwid": "71165dc45aea29dd3f2e581cdc8b24205933595fe0e80054e5a1856ecd24ec51",
-    "expires": "2025-01-15"
+    "key": "TEST-1234-5678",
+    "expires": "2025-12-31",
+    "lifetime": false,
+    "hwid": ""
   },
   {
-    "key": "trial-key-user",
-    "hwid": "",
-    "expires": "2025-06-15"
+    "key": "PERMA-0000-0000",
+    "lifetime": true,
+    "hwid": ""
   }
 ]
