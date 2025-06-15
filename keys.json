@@ -1,13 +1,14 @@
-[
-  {
-    "key": "TEST-1234-5678",
-    "expires": "2025-12-31",
-    "lifetime": false,
-    "hwid": "5d376277-b5c6-4c22-a98b-c5f2743051af"
+{
+  "ABCD-EFGH-IJKL": {
+    "hwid": "123456789012345", 
+    "expiry": "2025-12-31"
   },
-  {
-    "key": "PERMA-0000-0000",
-    "lifetime": true,
-    "hwid": ""
+  "MNOQ-RSTU-VWXY": {
+    "hwid": "987654321098765",
+    "expiry": "lifetime"
+  },
+  "ZZZZ-ZZZZ-ZZZZ": {
+    "hwid": "",
+    "expiry": "2025-08-20"
   }
-]
+}
