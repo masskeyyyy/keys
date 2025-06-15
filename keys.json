@@ -1,10 +1,10 @@
 {
   "ABCD-EFGH-IJKL": {
-    "hwid": "123456789012345", 
+    "hwid": "", 
     "expiry": "2025-12-31"
   },
   "MNOQ-RSTU-VWXY": {
-    "hwid": "987654321098765",
+    "hwid": "",
     "expiry": "lifetime"
   },
   "ZZZZ-ZZZZ-ZZZZ": {
