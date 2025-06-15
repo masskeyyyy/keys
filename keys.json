@@ -1,14 +1,14 @@
 {
-    "ABCD-EFGH-IJKL": {
-        "hwid": "",
-        "expiry": "2025-12-31"
-    },
-    "MNOQ-RSTU-VWXY": {
-        "hwid": "038D0240-045C-0503-DF06-2B0700080009",
-        "expiry": "lifetime"
-    },
-    "ZZZZ-ZZZZ-ZZZZ": {
-        "hwid": "038D0240-045C-0503-DF06-2B0700080009",
-        "expiry": "2025-08-20"
-    }
+  "ABCD-EFGH-IJKL": {
+    "hwid": "038D0240-045C-0503-DF06-2B0700080009",
+    "expiry": "2025-12-31"
+  },
+  "MNOQ-RSTU-VWXY": {
+    "hwid": "038D0240-045C-0503-DF06-2B0700080009",
+    "expiry": "lifetime"
+  },
+  "ZZZZ-ZZZZ-ZZZZ": {
+    "hwid": "038D0240-045C-0503-DF06-2B0700080009",
+    "expiry": "2025-08-20"
+  }
 }
