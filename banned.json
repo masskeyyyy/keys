@@ -1,1 +1,4 @@
-
+{
+    "hwids": ["HWID_TO_BAN_1", "HWID_TO_BAN_2"],
+    "ips": ["IP_TO_BAN_1", "IP_TO_BAN_2"]
+}
