@@ -1,17 +1,10 @@
 {
-  "ABCDE-12345-FGHIJ-67890": {
-    "hwid": "12345678-1234-5678-1234-567890ABCDEF",
-    "expiry": "2024-12-31",
-    "type": "Free",
-  },
-  "VWXYZ-98765-QRSTU-43210": {
-    "hwid": "",
-    "expiry": "2026-06-30",
-    "type": "premium",
-  },
-  "KLMNO-54321-PQRST-09876": {
-    "hwid": "87654321-4321-8765-4321-FEDCBA098765",
-    "expiry": "2023-12-25",
-    "type": "premium",
-  }
+    "YOUR_LICENSE_KEY_1": {
+        "hwid": "",
+        "expiry": "2024-12-31"
+    },
+    "YOUR_LICENSE_KEY_2": {
+        "hwid": "BOUND_HWID_HASH",
+        "expiry": "2025-01-15"
+    }
 }
