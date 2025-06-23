@@ -4,7 +4,7 @@
         "expiry": "2024-12-31"
     },
     "YOUR_LICENSE_KEY_2": {
-        "hwid": "BOUND_HWID_HASH",
+        "hwid": "",
         "expiry": "2026-01-15"
     }
 }
