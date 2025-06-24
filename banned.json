@@ -1,15 +1,1 @@
-{
-  "hwids": [
-    "AAA",
-    "BBB",
-    "ccc"
-  ],
-  "ips": [
-    "CCC",
-    "DDD",
-    "uuu"
-  ],
-  "reasons": {
-    "eeee": "Debugging tools detected"
-  }
-}
+
