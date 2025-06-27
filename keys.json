@@ -5,22 +5,14 @@
         "ip": null,
         "created_at": 1625097600,
         "activated_at": null,
-        "valid_until": 1767225600  // Jan 1, 2026
+        "valid_until": 1767225600
     },
     {
         "key": "RYUU-5678-IJKL-MNOP",
-        "hwid": "a1b2c3d4e5f6...",
+        "hwid": "a1b2c3d4e5f6",
         "ip": "123.45.67.89",
         "created_at": 1625097600,
         "activated_at": 1625184000,
-        "valid_until": 1767225600  // Jan 1, 2026
-    },
-    {
-        "key": "RYUU-QRST-UVWX-YZ12",
-        "hwid": null,
-        "ip": null,
-        "created_at": 1625097600,
-        "activated_at": null,
-        "valid_until": 1767225600  // Jan 1, 2026
+        "valid_until": 1767225600
     }
 ]
