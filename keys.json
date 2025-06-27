@@ -1,22 +1,8 @@
 {
     "RYUU-ABCD-1234-EFGH": {
-        "hwid": "", 
-        "ip": "",       
+        "hwid": "a1b2c3d4e5f6",
+        "ip": "123.45.67.89",
         "banned": false,
-        "created": "2023-11-15",
-        "expires": "2027-11-15",    
-        "max_activations": 1        
-    },
-    "RYUU-WXYZ-5678-IJKL": {
-        "hwid": "",
-        "ip": "",
-        "banned": false,
-        "created": "2023-11-20"
-    },
-    "RYUU-MNOP-9012-QRST": {
-        "hwid": "",   
-        "ip": "",
-        "banned": false,
-        "created": "2023-10-01"
+        "created": "2023-11-15"
     }
 }
