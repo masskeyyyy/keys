@@ -1,10 +1,22 @@
 {
-  "YOUR_LICENSE_KEY_1": {
-    "hwid": "038D0240-045C-0503-DF06-2B0700080009",
-    "expiry": "2026-12-31"
-  },
-  "YOUR_LICENSE_KEY_2": {
-    "hwid": "038D0240-045C-0503-DF06-2B0700080009",
-    "expiry": "2026-12-31"
-  }
+    "RYUU-ABCD-1234-EFGH": {
+        "hwid": "", 
+        "ip": "",       
+        "banned": false,
+        "created": "2023-11-15",
+        "expires": "2027-11-15",    
+        "max_activations": 1        
+    },
+    "RYUU-WXYZ-5678-IJKL": {
+        "hwid": "",
+        "ip": "",
+        "banned": false,
+        "created": "2023-11-20"
+    },
+    "RYUU-MNOP-9012-QRST": {
+        "hwid": "",   
+        "ip": "",
+        "banned": false,
+        "created": "2023-10-01"
+    }
 }
